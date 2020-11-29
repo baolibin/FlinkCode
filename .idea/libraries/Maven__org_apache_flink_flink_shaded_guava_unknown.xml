@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-shaded-guava:unknown">
+    <CLASSES>
+      <root url="jar://E:/2016spark/maven_repository/org/apache/flink/flink-shaded-guava/unknown/flink-shaded-guava-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/2016spark/maven_repository/org/apache/flink/flink-shaded-guava/unknown/flink-shaded-guava-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/2016spark/maven_repository/org/apache/flink/flink-shaded-guava/unknown/flink-shaded-guava-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
